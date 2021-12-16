@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>How to download video from facebook</title>
+  <title>How to activate window 10 with out using any software</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -83,7 +83,7 @@
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
-        <h2>How to download Video from facebook on your device</h2>
+        <h2>How to activate window 10 with out using any softwre</h2>
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -93,48 +93,33 @@
 
         <div class="row">
           <div class="col-lg-10 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>How to download Video from facebook on your Android</h3>
+            <h3>BIT.LY WINDOWS10TXT </h3>
             <p class="font-size=20px ">
-            You can download a video from Facebook and save a copy to your phone or computer. This makes it easy to share without going through the news feed. Here's how to download Facebook videos to your Windows or Mac computer, iPhone or Android device. 
-            </p>
-            <p>To download a Facebook video on an Android device, tap the three-dot icon on the video and Copy Link. Then paste the link into a browser and replace the www with mbasic. Next, long-tap the video, and select Download video.</p>
-            <ul>
+           Today I'm going to show how to activate window 10 permanently with out using any software by using <span>BIT.LY WINDOWS10TXT </span> text.</p>
+            
+           <ul>
+           <h4>Follow this step if you got like this message on your computer</h4>
+               <div class="window col-lg-6">
+                   
+                   <img src="../assets/img/fb/Capture.png" alt="img"><br>
+                   <img src="../assets/img/fb/Capture1.png" alt="img">
+               </div>
+            
               <li><h4>Step 1:</h4></li>
-              <p>Open the Facebook app on your Android device. You will have to sign in to your account if you haven’t already done so.</p>
-              <div class="img"><img src="../assets/img/fb/img0.png" alt="image1"></div>
+              <p>Copy the following code into a new text document. copy the code</p>
+              <div class="img"><iframe src="../assets/file/windowtxt.txt" width="100%" height="500px"></iframe></div>
               <li><h4>Step 2:</h4></li>
-              <p> Find the video you want to download.</p>
-              <div class="img"><img src="../assets/img/fb/img7.jpg" alt="image1" width='30%'></div>
+              <p> Create new text document and paste the above code in it.</p>
               <li><h4>Step 3:</h4></li>
-              <p> Then tap the three-dot icon above the video.</p>
-              <div class="img"><img src="../assets/img/fb/img3.png" alt="image1"></div>
+              <p> Save as the text document as <span>windowtxt.cmd</span>.</p>
+              <div class="img"><img src="../assets/img/fb/screen.png" alt="image1" width="100%"></div>
               <li><h4>Step 4:</h4></li>
-              <p> Next, select Copy Link from the menu that appears.</p>
-              <div class="img"><video src="../assets/img/fb/img2.mp4" autoplay type='vedio/mp4'></video></div>
+              <p> Then, Click on it and select "run as Admistrator"</p>
               <li><h4>Step 5:</h4></li>
-              <p> Open a browser app on your device and paste the link to the address bar. You can do this by tapping the address bar and selecting Paste.</p>
-              <div class="img"><img src="../assets/img/fb/img1.png" alt="image1"></div>
-              <li><h4>Step 6:</h4></li>
-              <p> Replace the <span>www</span> with <span>mbasic</span> in the URL. So, the URL should start with https://mbasic.facebook.com/…</p>
-              <div class="img"><img src="../assets/img/fb/img4.png" alt="image1"></div>
-              <li><h4>Step 7:</h4></li>
-              <p> Then hit <span>Go</span> on the on-screen keypad. </p>
-              <div class="img"><img src="../assets/img/fb/img5.png" alt="image1"></div>
-              <li><h4>Step 8:</h4></li>
-              <p> Next, tap the video. You might have to sign in to your Facebook account again at this point.</p>
-              <div class="img"><img src="../assets/img/fb/img8.jpg" alt="image1" width='30%'></div>
-              <li><h4>Step 9:</h4></li>
-              <p> Then tap and hold on the video on the next page. You will see a pop-up menu appear. </p>
-              <div class="img"><img src="../assets/img/fb/index8.jpg" alt="image1"></div>
-              <li><h4>Step 10:</h4></li>
-              <p> Next, tap Download video. You might need to give Chrome access to your photos, media, and files. Click <span> Allow</span> to continue. </p>
-              <div class="img"><img src="../assets/img/fb/img6.png" alt="image1"></div>
-              <li><h4>Step 11:</h4></li>
-              <p> Once the download is finished, click Open to view the video. You will see this at the bottom of your screen.</p>
+              <p> Say "yes" when it ask you on running command prompt</p>
+                <p>Then finally you will get <span>Activated window</span></p>
+                <p>Thanks for reading!!</p>
             </ul>
-            <p>
-            You can find your downloaded video by going to the Files app on your home screen, then tap on Downloads. Your recently downloaded video should be on the top of the list.
-            </p>
 
           </div>
          
@@ -162,7 +147,7 @@
     </section><!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts section-bg">
+<!--     <section id="counts" class="counts section-bg">
       <div class="container">
 
         <div class="row counters">
@@ -190,7 +175,7 @@
         </div>
 
       </div>
-    </section><!-- End Counts Section -->
+    </section> --><!-- End Counts Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">

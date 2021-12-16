@@ -27,6 +27,7 @@ include_once 'header.php';
             </p>
             <ul>
               <h4><a href="how-to/how-to-download-video-from-facebook.php"><li><i class="bi bi-check-circle"></i> How to download Vedio from facebook</li></a></h4>
+              <h4><a href="how-to/How to activate window 10 with out any softwre.php"><li><i class="bi bi-check-circle"></i> How To Activate Window 10 With Out Using Any Software</li></a></h4>
               <!-- <h4><a href=""><li><i class="bi bi-check-circle"></i> How to download Vedio from facebook</li></a></h4>
               <h4><a href=""><li><i class="bi bi-check-circle"></i> How to download Vedio from facebook</li></a></h4>
  -->         </ul>
@@ -42,6 +43,7 @@ include_once 'header.php';
             </p>
             <ul>
               <h4><a href="how-to/akkamitti-viidiyoo-facebook-irra-gadbuufna.php"><li><i class="bi bi-check-circle"></i> Akkamitti Vidiyoo Facebook irra Gad-buufanna</li></a></h4>
+              <h4><a href="how-to/Akkamitti Window 10 Activate Goona Software Tokko Malee.php"><li><i class="bi bi-check-circle"></i> Akkamitti Window 10 Activate Goona Software Tokko Malee</li></a></h4>
               <!-- <h4><a href=""><li><i class="bi bi-check-circle"></i> How to download Vedio from facebook</li></a></h4>
               <h4><a href=""><li><i class="bi bi-check-circle"></i> How to download Vedio from facebook</li></a></h4>
  -->            </ul>
