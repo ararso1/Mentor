@@ -45,12 +45,12 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.php">Home</a></li>
-          <li><a href="about.php">About</a></li>
-          <li><a href="courses.php">Courses</a></li>
-          <li><a href="trainers.php">Trainers</a></li>
-          <li><a href="events.php">Events</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
+          <li><a class="active" href="../index.php">Home</a></li>
+          <li><a href="../about.php">About</a></li>
+          <li><a href="../courses.php">Courses</a></li>
+          <li><a href="../trainers.php">Trainers</a></li>
+          <li><a href="../events.php">Events</a></li>
+          <li><a href="../pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>News</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -101,25 +101,34 @@
             <ul>
               <li><h4>Step 1:</h4></li>
               <p>Open the Facebook app on your Android device. You will have to sign in to your account if you haven’t already done so.</p>
-              <div class="img"><img src="../assets/img/course-1.jpg" alt="image1"></div>
+              <div class="img"><img src="../assets/img/fb/img0.png" alt="image1"></div>
               <li><h4>Step 2:</h4></li>
               <p> Find the video you want to download.</p>
+              <div class="img"><img src="../assets/img/fb/img7.jpg" alt="image1" width='30%'></div>
               <li><h4>Step 3:</h4></li>
               <p> Then tap the three-dot icon above the video.</p>
+              <div class="img"><img src="../assets/img/fb/img3.png" alt="image1"></div>
               <li><h4>Step 4:</h4></li>
               <p> Next, select Copy Link from the menu that appears.</p>
+              <div class="img"><video src="../assets/img/fb/img2.mp4" autoplay type='vedio/mp4'></video></div>
               <li><h4>Step 5:</h4></li>
               <p> Open a browser app on your device and paste the link to the address bar. You can do this by tapping the address bar and selecting Paste.</p>
+              <div class="img"><img src="../assets/img/fb/img1.png" alt="image1"></div>
               <li><h4>Step 6:</h4></li>
               <p> Replace the <span>www</span> with <span>mbasic</span> in the URL. So, the URL should start with https://mbasic.facebook.com/…</p>
+              <div class="img"><img src="../assets/img/fb/img4.png" alt="image1"></div>
               <li><h4>Step 7:</h4></li>
               <p> Then hit <span>Go</span> on the on-screen keypad. </p>
+              <div class="img"><img src="../assets/img/fb/img5.png" alt="image1"></div>
               <li><h4>Step 8:</h4></li>
               <p> Next, tap the video. You might have to sign in to your Facebook account again at this point.</p>
+              <div class="img"><img src="../assets/img/fb/img8.jpg" alt="image1" width='30%'></div>
               <li><h4>Step 9:</h4></li>
               <p> Then tap and hold on the video on the next page. You will see a pop-up menu appear. </p>
+              <div class="img"><img src="../assets/img/fb/index8.jpg" alt="image1"></div>
               <li><h4>Step 10:</h4></li>
               <p> Next, tap Download video. You might need to give Chrome access to your photos, media, and files. Click <span> Allow</span> to continue. </p>
+              <div class="img"><img src="../assets/img/fb/img6.png" alt="image1"></div>
               <li><h4>Step 11:</h4></li>
               <p> Once the download is finished, click Open to view the video. You will see this at the bottom of your screen.</p>
             </ul>
@@ -129,7 +138,7 @@
 
           </div>
          
-          <div class="col-lg-10 pt-4 pt-lg-0 order-2 order-lg-1 content">
+        <!--   <div class="col-lg-10 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>How to download Video from facebook on your Computer</h3>
             <p>
               To download a Facebook video on your computer, right-click on it and choose Show Video URL. Then paste the URL into a new tab and replace the www with mbasic. Finally, right-click it and select Save video as…
@@ -146,7 +155,7 @@
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
             </p>
 
-          </div>
+          </div> -->
         </div>
 
       </div>
